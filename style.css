@@ -11,6 +11,7 @@ h1 {
 }
 
 #testoexemplo {
+    color:aliceblue
     box-shadow: brown;
     width: 300px;
     border: 15px solid green;
