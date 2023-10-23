@@ -29,6 +29,7 @@ body {
     align-items: center;
     height: 30px;
     margin: 0;
+    flex-basis: auto;
 }
 
 div {
