@@ -6,14 +6,16 @@ body {
 }
 
 h1 {
-    text-size-adjust: 3mm;
+    text-size-adjust: 50px;
     color: aliceblue;
 }
+
 p {
     color: azure;
 }
 .box p {
-  color:aliceblue
+  color:aliceblue;
+  text-size-adjust: 15;
     }
 
 
@@ -23,9 +25,9 @@ p {
 
 body {
     display: flex;
-    justify-content: top;
+    justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 30px;
     margin: 0;
 }
 
