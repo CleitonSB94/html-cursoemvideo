@@ -2,10 +2,12 @@
 
 body {
     text-align: center;
+    background-color: black;
 }
 
 h1 {
     text-size-adjust: 3mm;
+    color: aliceblue;
 }
 
 #testoexemplo {
