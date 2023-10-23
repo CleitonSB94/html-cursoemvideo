@@ -1,9 +1,13 @@
-@charset "utf-8"
+@charset "utf-8";
 
-;body {
+body {
     text-align: center;
 }
 
 h1 {
     text-size-adjust: 3mm;
+}
+
+#testoexemplo {
+    box-shadow: brown;
 }
