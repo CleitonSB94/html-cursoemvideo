@@ -37,8 +37,8 @@ div {
 }
 
 button {
-    background-color: #4CAF50; /* Cor de fundo verde */
-    border: none; /* Remove bordas */
+    background-color: #24aed8; /* Cor de fundo verde */
+    border: 3px; /* Remove bordas */
     color: white; /* Cor do texto branco */
     padding: 15px 32px; /* Espaçamento interno */
     text-align: center; /* Alinhamento do texto ao centro */
