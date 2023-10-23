@@ -16,7 +16,6 @@ p {
   color:aliceblue
     }
 
-}
 
 .linha p {
     color:red
@@ -35,4 +34,17 @@ div {
     height: 200px;
     background-color: #f30000;
     box-shadow: 10px 10px 5px #2E2E2E;
+}
+
+button {
+    background-color: #4CAF50; /* Cor de fundo verde */
+    border: none; /* Remove bordas */
+    color: white; /* Cor do texto branco */
+    padding: 15px 32px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto ao centro */
+    text-decoration: none; /* Remove o sublinhado do texto */
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; /* Muda o cursor para um ponteiro quando passa por cima */
 }
