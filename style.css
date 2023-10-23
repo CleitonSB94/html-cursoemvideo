@@ -47,4 +47,5 @@ button {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer; /* Muda o cursor para um ponteiro quando passa por cima */
+    border-radius: 3px;
 }
